@@ -72,3 +72,20 @@ The purpose of classification of information on different levels is to protect i
 In addition to a security clearance, user of the information should also clear the secret clearance, top secret clearance and specific word clearance for sensitive compartmented information.
 
 Sensitive compartmented information is protected by code word so that only who cleared for each code word and all security clearances can see such information. If the data is comparted with code "SECRET" a particular user has to clear that specific word clearance to view or use the information.
+#
+#
+## 5(b) Classified Data (Student)
+#
+#
+## 5(c) System Types IT vs. OT
+* Operational Technology is system in which it is connected to any physical device and Information technology is the system that is connected to network.
+
+* Operational technology systems detect or cause a direct change through monitoring and control of devices where as Information technology can be monitored through network.
+
+* Operational technology as a categoriy both are into manufacturing, ICS is combination of control components.
+
+* ICS is used in electrical, water and wastewater, oil and natural gas, chemical, transportation, pharmaceutical, pulp and paper, food and beverage, and discrete manufacturing industries.
+
+* Before ICS components were in physically secured areas and these devices were not connected to any network. (eg: cars) but now devices are having proprietary solutions, which increases possibility of cybersecurity vulnerabilities.
+
+* No,Dams and Nuclear Sectors are the example that critical infrastructure doesn't always involve ICS. 
