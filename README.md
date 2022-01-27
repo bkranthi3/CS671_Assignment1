@@ -24,7 +24,7 @@
 #
 ## Question 3
 ### 3(a)
-![Have I been pawned result](Images/Pawned.PNG)
+![Have I been pawned result](Images/IsPawned.png)
 ### 3(b)
 Credential stuffing is a cyber attack in which the attacker breaches into victim's system by setting up bots to attempt a login to a service by passing different combination of compromised user names and passwords that are stored in credential databases.
 * (a)
