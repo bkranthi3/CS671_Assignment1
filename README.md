@@ -1,5 +1,4 @@
-**KRANTHI KIRAN BINGI**
-#
+**Student Name: KRANTHI KIRAN BINGI**
 #
 **NetID: AQ8192**
 # Homework #1 Solution
