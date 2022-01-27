@@ -1,5 +1,7 @@
 #** Student Name: ** KRANTHI KIRAN BINGI
+#
 #**NetID:** AQ8192
+#
 # Homework #1 Solution
 ## Question 1
 ### 1(a)
@@ -14,7 +16,7 @@
 #
 #
 ### 2(b)
-![Git command line history](Images/GitCMD.PNG)
+![Git command line history](Images/GitCMD.png)
 ### 2(c)
 ![ReadMe View](Images/ReadMe-View.png)
 #
@@ -22,7 +24,7 @@
 #
 ## Question 3
 ### 3(a)
-![Have I been pwned result](Images/Pawned.PNG)
+![Have I been pawned result](Images/Pawned.PNG)
 ### 3(b)
 Credential stuffing is a cyber attack in which the attacker breaches into victim's system by setting up bots to attempt a login to a service by passing different combination of compromised user names and passwords that are stored in credential databases.
 * (a)
