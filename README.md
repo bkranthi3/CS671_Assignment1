@@ -18,7 +18,7 @@
 ### 2(b)
 ![Git command line history](Images/Git-History.png)
 ### 2(c)
-![ReadMe View](Images/ReadMe-View.png)
+![ReadMe View](Images/ReadMeView.png)
 #
 #
 #
