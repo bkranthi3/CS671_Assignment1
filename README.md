@@ -1,2 +1,5 @@
-# CS671_Assignment1
-First assignment of Cybersecurity
+**KRANTHI KIRAN BINGI**
+**NetID: AQ8192**
+# Homework #1 Solution
+## Question 1
+## Question 2
