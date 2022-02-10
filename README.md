@@ -19,8 +19,8 @@ Basically the above file type strings are generally seen in “ MALDOCS” so th
 When we observe the above string it looks like the sha value of some MS word document file.
 When I checked in VT ( Virus total ) found suspicious information on this string. The string value belong to the SHA256 value of Malicious MS word document file.
 Please find the below reference screenshot.
-![](Images/Img1.png)
-![](Images/Img2.png)
+![](Images/img1.png)
+![](Images/img2.png)
 
 ## Question 2
 ### 2(a)
